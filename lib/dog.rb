@@ -18,4 +18,3 @@ class Dog
     end
   end
 end
-pluto.save
