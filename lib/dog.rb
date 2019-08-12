@@ -18,4 +18,4 @@ class Dog
     end
   end
 end
-Dog.print_all
+
