@@ -18,4 +18,5 @@ class Dog
     end
   end
 end
+Dog.print
 pluto.save
