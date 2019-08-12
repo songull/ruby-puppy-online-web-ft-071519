@@ -1,7 +1,7 @@
 class Dog
   attr_accessor :name
 
-   @@all = ["Pluto", "Fido", "Maddy"]
+   @@all = []
 
    def initialize(name)
     @name = name
@@ -18,3 +18,4 @@ class Dog
     end
   end
 end
+Dog.print_all
